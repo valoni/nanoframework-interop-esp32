@@ -1,15 +1,15 @@
 # nanoframework-interop-esp32
 nanoframework-interop-esp32
 
-to compile 
+**to compile** 
 
-copy   NF.HardwareLib  from inside Stubs folder on  nanoFramework\InteropAssemblies  
+**copy**   NF.HardwareLib  from inside Stubs folder **on**  nanoFramework\InteropAssemblies  
 
-copy  from nanoFramework\InteropAssemblies\NF.HardwareLib\FindINTEROP-NF.HardwareLib.cmake
+**copy**  from nanoFramework\InteropAssemblies\NF.HardwareLib\FindINTEROP-NF.HardwareLib.cmake
 
-to   nanoFramework\CMake\Modules\  
+**to**   nanoFramework\CMake\Modules\  
 
-this example is upgrade of example from
+**this example is upgrade of example from**
   https://github.com/Dweaver309/nanoFramework-Interop-Example  
   
 nothing changed from original source just addded one more function
